@@ -23,6 +23,10 @@ The library also contains some [utils](naj-utils.md) functions.
 To quickly get started with integrating NEAR in a web browser, read our [Web Frontend integration](/develop/integrate/frontend) article.
 :::
 
+:::tip
+To quickly get started with integrating NEAR in a web browser, read our [Web Frontend integration](/develop/integrate/frontend) article.
+:::
+
 :::info
 Note the difference between `near-api-js` and `near-sdk-js`:
 
