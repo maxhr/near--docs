@@ -13,9 +13,9 @@ import TabItem from '@theme/TabItem';
 
 You'll typically first create a connection to NEAR with [`connect`](#connect). If you need to sign transaction, you also create a [`KeyStore`](#key-store).
 With the connection object you now can:
-- Interact with the [Wallet](naj-wallet.md) in a browser.
-- Instantiate an [Account](naj-account.md) object to inspect, create or delete accounts, and also send tokens, deploy contracts and manage keys for accounts.
-- Instantiate an [Contract](naj-contract.md) object to call smart contract methods.
+- Interact with the [Wallet](#wallet) in a browser.
+- Instantiate an [Account](#account) object to inspect, create or delete accounts, and also send tokens, deploy contracts and manage keys for accounts.
+- Instantiate an [Contract](#contract) object to call smart contract methods.
 
 The library also contains some [utils](naj-utils.md) functions.
 
