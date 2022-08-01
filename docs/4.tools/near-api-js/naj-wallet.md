@@ -136,7 +136,7 @@ if (walletConnection.isSignedIn()) {
 
 ### Get Wallet Account {#get-authorized-account}
 
-Get the [Account](naj-account.md) your user has signed in with in the Wallet.
+Get the [Account](#account) your user has signed in with in the Wallet.
 
 #### Get Account ID (as string) {#get-authorized-account-id}
 
