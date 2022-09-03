@@ -3,8 +3,6 @@ id: "near.NearConfig"
 title: "Interface: NearConfig"
 sidebar_label: "NearConfig"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [near](../modules/near.md).NearConfig

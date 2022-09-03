@@ -4,8 +4,6 @@ title: "Module: providers/provider"
 sidebar_label: "providers/provider"
 sidebar_position: 0
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 NEAR RPC API request types and responses

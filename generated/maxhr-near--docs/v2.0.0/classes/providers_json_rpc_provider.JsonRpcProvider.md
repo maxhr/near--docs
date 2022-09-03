@@ -3,8 +3,6 @@ id: "providers_json_rpc_provider.JsonRpcProvider"
 title: "Class: JsonRpcProvider"
 sidebar_label: "JsonRpcProvider"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [providers/json-rpc-provider](../modules/providers_json_rpc_provider.md).JsonRpcProvider

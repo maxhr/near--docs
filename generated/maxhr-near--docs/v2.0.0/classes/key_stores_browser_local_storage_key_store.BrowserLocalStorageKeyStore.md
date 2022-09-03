@@ -3,8 +3,6 @@ id: "key_stores_browser_local_storage_key_store.BrowserLocalStorageKeyStore"
 title: "Class: BrowserLocalStorageKeyStore"
 sidebar_label: "BrowserLocalStorageKeyStore"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [key_stores/browser_local_storage_key_store](../modules/key_stores_browser_local_storage_key_store.md).BrowserLocalStorageKeyStore

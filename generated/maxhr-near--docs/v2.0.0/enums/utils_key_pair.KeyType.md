@@ -3,8 +3,6 @@ id: "utils_key_pair.KeyType"
 title: "Enumeration: KeyType"
 sidebar_label: "KeyType"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [utils/key_pair](../modules/utils_key_pair.md).KeyType

@@ -3,8 +3,6 @@ id: "utils_serialize.BinaryReader"
 title: "Class: BinaryReader"
 sidebar_label: "BinaryReader"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [utils/serialize](../modules/utils_serialize.md).BinaryReader

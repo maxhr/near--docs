@@ -3,8 +3,6 @@ id: "transaction.FunctionCall"
 title: "Class: FunctionCall"
 sidebar_label: "FunctionCall"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [transaction](../modules/transaction.md).FunctionCall

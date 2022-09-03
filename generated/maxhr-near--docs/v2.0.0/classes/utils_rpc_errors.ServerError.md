@@ -3,8 +3,6 @@ id: "utils_rpc_errors.ServerError"
 title: "Class: ServerError"
 sidebar_label: "ServerError"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [utils/rpc_errors](../modules/utils_rpc_errors.md).ServerError

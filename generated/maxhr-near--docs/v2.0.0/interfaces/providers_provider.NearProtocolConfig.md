@@ -3,8 +3,6 @@ id: "providers_provider.NearProtocolConfig"
 title: "Interface: NearProtocolConfig"
 sidebar_label: "NearProtocolConfig"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [providers/provider](../modules/providers_provider.md).NearProtocolConfig

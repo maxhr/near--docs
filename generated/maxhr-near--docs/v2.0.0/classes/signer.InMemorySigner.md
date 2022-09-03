@@ -3,8 +3,6 @@ id: "signer.InMemorySigner"
 title: "Class: InMemorySigner"
 sidebar_label: "InMemorySigner"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [signer](../modules/signer.md).InMemorySigner

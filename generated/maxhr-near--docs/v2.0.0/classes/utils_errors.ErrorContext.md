@@ -3,8 +3,6 @@ id: "utils_errors.ErrorContext"
 title: "Class: ErrorContext"
 sidebar_label: "ErrorContext"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [utils/errors](../modules/utils_errors.md).ErrorContext

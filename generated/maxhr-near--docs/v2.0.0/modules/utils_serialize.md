@@ -4,8 +4,6 @@ title: "Module: utils/serialize"
 sidebar_label: "utils/serialize"
 sidebar_position: 0
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 ## Classes

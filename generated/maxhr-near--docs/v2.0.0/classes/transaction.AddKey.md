@@ -3,8 +3,6 @@ id: "transaction.AddKey"
 title: "Class: AddKey"
 sidebar_label: "AddKey"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [transaction](../modules/transaction.md).AddKey

@@ -4,8 +4,6 @@ title: "NEAR JavaScript API - v1.0.0"
 sidebar_label: "Readme"
 sidebar_position: 0
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 NEAR JavaScript API is a complete library to interact with the NEAR blockchain. You can use it in the browser, or in Node.js runtime.

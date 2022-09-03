@@ -3,8 +3,6 @@ id: "transaction.CreateAccount"
 title: "Class: CreateAccount"
 sidebar_label: "CreateAccount"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [transaction](../modules/transaction.md).CreateAccount

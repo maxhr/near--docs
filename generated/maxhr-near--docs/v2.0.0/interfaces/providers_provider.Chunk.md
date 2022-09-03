@@ -3,8 +3,6 @@ id: "providers_provider.Chunk"
 title: "Interface: Chunk"
 sidebar_label: "Chunk"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [providers/provider](../modules/providers_provider.md).Chunk

@@ -3,8 +3,6 @@ id: "transaction.AccessKeyPermission"
 title: "Class: AccessKeyPermission"
 sidebar_label: "AccessKeyPermission"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [transaction](../modules/transaction.md).AccessKeyPermission

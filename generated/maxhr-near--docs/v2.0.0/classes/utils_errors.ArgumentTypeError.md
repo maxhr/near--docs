@@ -3,8 +3,6 @@ id: "utils_errors.ArgumentTypeError"
 title: "Class: ArgumentTypeError"
 sidebar_label: "ArgumentTypeError"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [utils/errors](../modules/utils_errors.md).ArgumentTypeError

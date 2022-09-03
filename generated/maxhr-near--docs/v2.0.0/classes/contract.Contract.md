@@ -3,8 +3,6 @@ id: "contract.Contract"
 title: "Class: Contract"
 sidebar_label: "Contract"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [contract](../modules/contract.md).Contract

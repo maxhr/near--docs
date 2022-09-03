@@ -3,8 +3,6 @@ id: "account.AccountAuthorizedApp"
 title: "Interface: AccountAuthorizedApp"
 sidebar_label: "AccountAuthorizedApp"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [account](../modules/account.md).AccountAuthorizedApp

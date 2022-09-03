@@ -3,8 +3,6 @@ id: "validators.EpochValidatorsDiff"
 title: "Interface: EpochValidatorsDiff"
 sidebar_label: "EpochValidatorsDiff"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [validators](../modules/validators.md).EpochValidatorsDiff

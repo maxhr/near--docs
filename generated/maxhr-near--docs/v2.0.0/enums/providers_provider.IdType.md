@@ -3,8 +3,6 @@ id: "providers_provider.IdType"
 title: "Enumeration: IdType"
 sidebar_label: "IdType"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [providers/provider](../modules/providers_provider.md).IdType

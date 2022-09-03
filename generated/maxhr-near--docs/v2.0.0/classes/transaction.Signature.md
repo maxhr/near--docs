@@ -3,8 +3,6 @@ id: "transaction.Signature"
 title: "Class: Signature"
 sidebar_label: "Signature"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [transaction](../modules/transaction.md).Signature

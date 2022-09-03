@@ -4,8 +4,6 @@ title: "Module: near"
 sidebar_label: "near"
 sidebar_position: 0
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 This module contains the main class developers will use to interact with NEAR.

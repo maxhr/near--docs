@@ -3,8 +3,6 @@ id: "transaction.DeleteKey"
 title: "Class: DeleteKey"
 sidebar_label: "DeleteKey"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [transaction](../modules/transaction.md).DeleteKey

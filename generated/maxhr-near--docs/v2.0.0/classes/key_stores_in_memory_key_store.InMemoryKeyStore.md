@@ -3,8 +3,6 @@ id: "key_stores_in_memory_key_store.InMemoryKeyStore"
 title: "Class: InMemoryKeyStore"
 sidebar_label: "InMemoryKeyStore"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [key_stores/in_memory_key_store](../modules/key_stores_in_memory_key_store.md).InMemoryKeyStore

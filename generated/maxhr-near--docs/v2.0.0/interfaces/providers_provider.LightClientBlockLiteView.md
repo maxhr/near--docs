@@ -3,8 +3,6 @@ id: "providers_provider.LightClientBlockLiteView"
 title: "Interface: LightClientBlockLiteView"
 sidebar_label: "LightClientBlockLiteView"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [providers/provider](../modules/providers_provider.md).LightClientBlockLiteView

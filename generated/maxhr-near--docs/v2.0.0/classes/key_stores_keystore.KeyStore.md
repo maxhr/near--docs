@@ -3,8 +3,6 @@ id: "key_stores_keystore.KeyStore"
 title: "Class: KeyStore"
 sidebar_label: "KeyStore"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [key_stores/keystore](../modules/key_stores_keystore.md).KeyStore

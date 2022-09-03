@@ -3,8 +3,6 @@ id: "contract.ContractMethods"
 title: "Interface: ContractMethods"
 sidebar_label: "ContractMethods"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [contract](../modules/contract.md).ContractMethods

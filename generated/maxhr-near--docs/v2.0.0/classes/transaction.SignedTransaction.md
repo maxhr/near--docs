@@ -3,8 +3,6 @@ id: "transaction.SignedTransaction"
 title: "Class: SignedTransaction"
 sidebar_label: "SignedTransaction"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [transaction](../modules/transaction.md).SignedTransaction

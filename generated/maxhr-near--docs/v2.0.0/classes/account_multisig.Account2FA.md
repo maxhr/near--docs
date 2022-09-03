@@ -3,8 +3,6 @@ id: "account_multisig.Account2FA"
 title: "Class: Account2FA"
 sidebar_label: "Account2FA"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [account_multisig](../modules/account_multisig.md).Account2FA

@@ -3,8 +3,6 @@ id: "connection.Connection"
 title: "Class: Connection"
 sidebar_label: "Connection"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [connection](../modules/connection.md).Connection

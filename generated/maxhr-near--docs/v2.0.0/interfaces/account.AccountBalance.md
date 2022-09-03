@@ -3,8 +3,6 @@ id: "account.AccountBalance"
 title: "Interface: AccountBalance"
 sidebar_label: "AccountBalance"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [account](../modules/account.md).AccountBalance

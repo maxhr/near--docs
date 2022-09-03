@@ -4,8 +4,6 @@ title: "NEAR JavaScript API - v1.0.0"
 sidebar_label: "Exports"
 sidebar_position: 0.5
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 ## Modules

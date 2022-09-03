@@ -3,8 +3,6 @@ id: "providers_provider.MerkleNode"
 title: "Interface: MerkleNode"
 sidebar_label: "MerkleNode"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [providers/provider](../modules/providers_provider.md).MerkleNode

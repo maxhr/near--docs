@@ -4,8 +4,6 @@ title: "Module: providers/json-rpc-provider"
 sidebar_label: "providers/json-rpc-provider"
 sidebar_position: 0
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 **`Description`**
