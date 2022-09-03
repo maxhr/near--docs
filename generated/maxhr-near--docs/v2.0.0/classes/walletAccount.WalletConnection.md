@@ -3,8 +3,6 @@ id: "walletAccount.WalletConnection"
 title: "Class: WalletConnection"
 sidebar_label: "WalletConnection"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [walletAccount](../modules/walletAccount.md).WalletConnection

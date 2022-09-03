@@ -3,8 +3,6 @@ id: "signer.Signer"
 title: "Class: Signer"
 sidebar_label: "Signer"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [signer](../modules/signer.md).Signer

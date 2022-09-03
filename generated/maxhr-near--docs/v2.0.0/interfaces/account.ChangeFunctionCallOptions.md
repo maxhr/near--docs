@@ -3,8 +3,6 @@ id: "account.ChangeFunctionCallOptions"
 title: "Interface: ChangeFunctionCallOptions"
 sidebar_label: "ChangeFunctionCallOptions"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [account](../modules/account.md).ChangeFunctionCallOptions

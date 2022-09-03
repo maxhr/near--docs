@@ -3,8 +3,6 @@ id: "account.Account"
 title: "Class: Account"
 sidebar_label: "Account"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [account](../modules/account.md).Account

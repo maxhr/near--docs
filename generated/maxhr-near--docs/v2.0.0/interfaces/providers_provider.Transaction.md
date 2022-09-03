@@ -3,8 +3,6 @@ id: "providers_provider.Transaction"
 title: "Interface: Transaction"
 sidebar_label: "Transaction"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [providers/provider](../modules/providers_provider.md).Transaction

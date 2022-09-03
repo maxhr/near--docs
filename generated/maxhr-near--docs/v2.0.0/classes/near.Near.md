@@ -3,8 +3,6 @@ id: "near.Near"
 title: "Class: Near"
 sidebar_label: "Near"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [near](../modules/near.md).Near

@@ -3,8 +3,6 @@ id: "transaction.Stake"
 title: "Class: Stake"
 sidebar_label: "Stake"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [transaction](../modules/transaction.md).Stake

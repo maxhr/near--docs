@@ -3,8 +3,6 @@ id: "transaction.Action"
 title: "Class: Action"
 sidebar_label: "Action"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [transaction](../modules/transaction.md).Action

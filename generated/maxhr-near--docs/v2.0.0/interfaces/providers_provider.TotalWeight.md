@@ -3,8 +3,6 @@ id: "providers_provider.TotalWeight"
 title: "Interface: TotalWeight"
 sidebar_label: "TotalWeight"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [providers/provider](../modules/providers_provider.md).TotalWeight

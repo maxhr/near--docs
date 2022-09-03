@@ -3,8 +3,6 @@ id: "transaction.FullAccessPermission"
 title: "Class: FullAccessPermission"
 sidebar_label: "FullAccessPermission"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [transaction](../modules/transaction.md).FullAccessPermission

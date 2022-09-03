@@ -3,8 +3,6 @@ id: "account_multisig.MultisigStateStatus"
 title: "Enumeration: MultisigStateStatus"
 sidebar_label: "MultisigStateStatus"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [account_multisig](../modules/account_multisig.md).MultisigStateStatus

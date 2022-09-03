@@ -3,8 +3,6 @@ id: "providers_provider.NextEpochValidatorInfo"
 title: "Interface: NextEpochValidatorInfo"
 sidebar_label: "NextEpochValidatorInfo"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [providers/provider](../modules/providers_provider.md).NextEpochValidatorInfo

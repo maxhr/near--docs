@@ -3,8 +3,6 @@ id: "key_stores_merge_key_store.MergeKeyStore"
 title: "Class: MergeKeyStore"
 sidebar_label: "MergeKeyStore"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [key_stores/merge_key_store](../modules/key_stores_merge_key_store.md).MergeKeyStore

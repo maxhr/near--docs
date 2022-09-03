@@ -4,8 +4,6 @@ title: "Module: utils/format"
 sidebar_label: "utils/format"
 sidebar_position: 0
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 ## Variables

@@ -3,8 +3,6 @@ id: "transaction.AccessKey"
 title: "Class: AccessKey"
 sidebar_label: "AccessKey"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [transaction](../modules/transaction.md).AccessKey

@@ -3,8 +3,6 @@ id: "account_multisig.MultisigDeleteRequestRejectionError"
 title: "Enumeration: MultisigDeleteRequestRejectionError"
 sidebar_label: "MultisigDeleteRequestRejectionError"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [account_multisig](../modules/account_multisig.md).MultisigDeleteRequestRejectionError

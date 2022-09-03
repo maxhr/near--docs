@@ -3,8 +3,6 @@ id: "utils_serialize.BorshError"
 title: "Class: BorshError"
 sidebar_label: "BorshError"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [utils/serialize](../modules/utils_serialize.md).BorshError

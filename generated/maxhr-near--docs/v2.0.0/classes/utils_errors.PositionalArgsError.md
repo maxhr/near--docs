@@ -3,8 +3,6 @@ id: "utils_errors.PositionalArgsError"
 title: "Class: PositionalArgsError"
 sidebar_label: "PositionalArgsError"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [utils/errors](../modules/utils_errors.md).PositionalArgsError

@@ -3,8 +3,6 @@ id: "utils_errors.TypedError"
 title: "Class: TypedError"
 sidebar_label: "TypedError"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [utils/errors](../modules/utils_errors.md).TypedError

@@ -3,8 +3,6 @@ id: "utils_key_pair.KeyPairEd25519"
 title: "Class: KeyPairEd25519"
 sidebar_label: "KeyPairEd25519"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [utils/key_pair](../modules/utils_key_pair.md).KeyPairEd25519

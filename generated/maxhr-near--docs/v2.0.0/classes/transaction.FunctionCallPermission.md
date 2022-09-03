@@ -3,8 +3,6 @@ id: "transaction.FunctionCallPermission"
 title: "Class: FunctionCallPermission"
 sidebar_label: "FunctionCallPermission"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [transaction](../modules/transaction.md).FunctionCallPermission

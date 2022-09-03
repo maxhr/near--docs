@@ -3,8 +3,6 @@ id: "transaction.IAction"
 title: "Class: IAction"
 sidebar_label: "IAction"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [transaction](../modules/transaction.md).IAction

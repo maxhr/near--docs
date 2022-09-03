@@ -3,8 +3,6 @@ id: "utils_key_pair.PublicKey"
 title: "Class: PublicKey"
 sidebar_label: "PublicKey"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [utils/key_pair](../modules/utils_key_pair.md).PublicKey

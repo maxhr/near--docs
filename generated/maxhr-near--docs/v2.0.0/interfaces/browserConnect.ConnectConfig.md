@@ -3,8 +3,6 @@ id: "browserConnect.ConnectConfig"
 title: "Interface: ConnectConfig"
 sidebar_label: "ConnectConfig"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [browserConnect](../modules/browserConnect.md).ConnectConfig

@@ -3,8 +3,6 @@ id: "utils_web.ConnectionInfo"
 title: "Interface: ConnectionInfo"
 sidebar_label: "ConnectionInfo"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [utils/web](../modules/utils_web.md).ConnectionInfo

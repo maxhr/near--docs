@@ -3,8 +3,6 @@ id: "providers_provider.AccessKeyView"
 title: "Interface: AccessKeyView"
 sidebar_label: "AccessKeyView"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [providers/provider](../modules/providers_provider.md).AccessKeyView

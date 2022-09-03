@@ -3,8 +3,6 @@ id: "transaction.Transfer"
 title: "Class: Transfer"
 sidebar_label: "Transfer"
 custom_edit_url: null
-pagination_prev: null
-pagination_next: null
 ---
 
 [transaction](../modules/transaction.md).Transfer
