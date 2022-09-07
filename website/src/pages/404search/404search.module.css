@@ -1,0 +1,33 @@
+.searchBanner404 * {
+
+}
+.searchBanner404 {
+    display: flex;
+    margin-bottom: 20px;
+    padding: 10px;
+    opacity: 0.5;
+}
+.searchBanner404Title {
+    display: flex;
+    flex-direction: column;
+    opacity: 0.5;
+}
+.searchBanner404Title h1 {
+    font-size: 5em;
+    line-height: 1em;
+}
+
+.searchBanner404Title h2 {
+    /*font-family: monospace;*/
+    font-size: 2em;
+    line-height: 1em;
+    width: 100%;
+    text-align: center;
+    font-weight: 300;
+}
+.searchBanner404 p {
+    font-size: 1em;
+    line-height: 1.5em;
+    margin: 2em 30px 0;
+    font-weight: normal;
+}

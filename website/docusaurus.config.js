@@ -20,6 +20,7 @@ module.exports = {
     "/css/copy-code-button.css",
     "/css/landing-page.css",
     "/css/near.min.css",
+    "/css/google-overrides.css",
   ],
   favicon: "img/favicon.ico",
   customFields: {
@@ -67,7 +68,6 @@ module.exports = {
         // this path doesn't exit, the versioning mechanism takes docs from website/near-api-js_versioned_docs
         path: '../__generated/near-api-js',
         routeBasePath: '/near-api-js',
-        lastVersion: 'v0.0.0',
         includeCurrentVersion: false,
       },
     ],
@@ -78,7 +78,6 @@ module.exports = {
         // this path doesn't exit, the versioning mechanism takes docs from website/near-api-js_versioned_docs
         path: '../__generated/near-sdk-js',
         routeBasePath: '/near-sdk-js',
-        lastVersion: 'v0.0.0',
         includeCurrentVersion: false,
       },
     ],
@@ -126,7 +125,6 @@ module.exports = {
           label: "🔌 RPC API",
           position: "left",
         },
-        // To be added soon:
         {
           href: "/near-api-js",
           label: "JS API",
@@ -172,7 +170,7 @@ module.exports = {
       apiKey: "129d0f429e1bb0510f0261dda1e88ed4",
       indexName: "near",
       // Optional: see doc section below
-      contextualSearch: false,
+      contextualSearch: true,
       // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
       externalUrlRegex: "near-sdk\\.io",
       // Optional: Algolia search parameters
